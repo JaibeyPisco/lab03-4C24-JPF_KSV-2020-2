@@ -8,8 +8,9 @@ public class StudentController{
         System.out.println("Mi nombre es: " + nombre);
         System.out.println("Estoy en el semestre: " + semestre);
 
-        if(nombre =="Jaibey"){
-            System.out.println("Hola: " + nombre )
+        if(nombre == "Jaibey"){
+            System.out.println("Hola: " + nombre );
+            System.out.println("Ya casi termino");
         }
         }
 	}
