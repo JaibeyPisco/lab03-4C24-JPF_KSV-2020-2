@@ -1,8 +1,9 @@
-<<<<<<< HEAD
+package com.tecsup.lab3.controller;
+
 public class StudentController{
     public static void main(String[] args) {
         String nombre = "Jaibey Pisco";
-        String semestre = 4;
+        int semestre = 4;
 		System.out.println("Controlador de las acciones de los estudiantes");
 
         System.out.println("Mi nombre es: " + nombre);
