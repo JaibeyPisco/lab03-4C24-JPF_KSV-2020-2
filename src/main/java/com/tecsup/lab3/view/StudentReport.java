@@ -7,6 +7,8 @@ public class StudentReport {
 		System.out.println("Hola mi proyecto");
 
 		System.out.println("Los reportes son lo maximo");
+		System.out.println("Se añadio otra linea");
+
 
 	}
 }
